@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jespermagician&label=Profile%20views&color=0e75b6&style=flat" alt="jespermagician" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jespermagician" alt="jespermagician" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  
 - 📁 At Work: I also work with SAP / ABAP
 
 - 📝 I'm in the third year of apprenticeship as developer 
 
-- 📫 How to reach me **www.instagram.com/der_jesper**
+- 📫 How to reach me **www.instagram.com/jespermagician**
 
 - ⚡ Fun fact **Im not a magician**
 
@@ -24,6 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jespermagician&show_icons=true&locale=en&layout=compact" alt="jespermagician" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jespermagician&show_icons=true&locale=en" alt="jespermagician" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jespermagician&" alt="jespermagician" /></p>
-
