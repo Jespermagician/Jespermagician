@@ -1,9 +1,9 @@
 ## Hello there 
 
-> C#
-> Python
-> ABAB
-> Javascript
+- C#
+- Python
+- ABAB
+- Javascript
 
 <!--
 **Jespermagician/Jespermagician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
