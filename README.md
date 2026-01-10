@@ -4,8 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jespermagician&label=Profile%20views&color=469f04&style=flat-square" alt="jespermagician" /> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jespermagician&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="margin-right: 50px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jespermagician&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jespermagician&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jespermagician&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jespermagician&theme=radical" alt="GitHub Streak" />
+  </div>
+
+
 
